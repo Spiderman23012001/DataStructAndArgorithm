@@ -1,0 +1,6 @@
+các loại đệ quy
+- tail recursion (O(n))
+- head recursion (O(n))
+- tree recursion (O(2^n))
+- indirect recursion
+- nested recursion
